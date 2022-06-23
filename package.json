@@ -1,0 +1,23 @@
+{
+  "name": "articlesandwatchlist",
+  "version": "1.0.0",
+  "description": "Fingers crossed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TeddyMilford/phase-2-project-backend.git"
+  },
+  "author": "Teddy Milford and Nicola Milne",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/TeddyMilford/phase-2-project-backend/issues"
+  },
+  "homepage": "https://github.com/TeddyMilford/phase-2-project-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
